@@ -14,9 +14,9 @@ A decentralized chat application built with [Gun.js](https://gun.eco/) and enhan
 
 - Frontend: Svelte, JavaScript
 - Backend: Gun.js (P2P Database)
-- Blockchain: Solidity, Ethereum, Truffle (or Hardhat)
+- Blockchain: Solidity, Ethereum, Truffle 
 - Wallet: MetaMask
-- Build Tools: npm, Rollup
+- Build Tools: npm
 
 ## 🚀 Getting Started
 
