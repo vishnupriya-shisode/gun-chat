@@ -154,7 +154,7 @@
         bind:value={newMessage}
         maxlength="100"
       />
-      <button type="submit" disabled={!newMessage.trim()}>SEND to 🦊</button>
+      <button type="submit" disabled={!newMessage.trim()}>SEND TO 🦊</button>
     </form>
 
     {#if !canAutoScroll}
