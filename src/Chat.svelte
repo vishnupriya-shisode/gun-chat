@@ -14,7 +14,7 @@
   let unreadMessages = false;
   let provider, signer, contract;
 
-  const contractAddress = "0x36a90cC9951f55889bF535569Cb72D36e3E1aF6c";
+  const contractAddress = "0x445D30dDC1D0e24Bf81b340A0b126A88a1C793De";
   const abi = [
     "function sendMessage(string sender, string message) public",
     "function getMessages() public view returns (tuple(string, string, uint256)[])"
