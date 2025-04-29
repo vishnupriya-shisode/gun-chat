@@ -36,4 +36,4 @@ npm run dev
 
 ## 🙋‍♀️ Author
 
-Built with ❤️ by [Vishnupriya Shisode](https://github.com/vishnupriya-shisode)
+👾(https://github.com/vishnupriya-shisode)
